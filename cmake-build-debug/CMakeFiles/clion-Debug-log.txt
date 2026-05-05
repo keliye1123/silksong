@@ -1,4 +1,4 @@
 "D:\software\C_language\CLion 2025.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S D:\my_space\hk_game -B D:\my_space\hk_game\cmake-build-debug
--- Configuring done (0.8s)
+-- Configuring done (0.3s)
 -- Generating done (0.0s)
 -- Build files have been written to: D:/my_space/hk_game/cmake-build-debug

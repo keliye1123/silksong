@@ -1,0 +1,1 @@
+  -LD:/my_space/hk_game/./easyX/lib64  D:/my_space/hk_game/easyX/lib64/libeasyx.a -lwinmm -lgdi32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
